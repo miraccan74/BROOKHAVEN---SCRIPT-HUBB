@@ -1,0 +1,2 @@
+Orion Library = loadstring(game:HttGet(https://pastebin.com/ASvZnLMa"))()
+Orion Window = OrionLib:MakeWindow({Name = *BrookHaven Script* ,Hide Premium = false, SafeConfig =true, ConfigFolder = "Orion Test"})
